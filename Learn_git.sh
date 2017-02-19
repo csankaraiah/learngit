@@ -15,7 +15,6 @@ vi spark_data
 
 5. To add this to git
 git add .
-
 6. Commit this git change
 git commit -m "Initial Commit" 
 
